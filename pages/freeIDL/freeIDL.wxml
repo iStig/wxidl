@@ -1,0 +1,20 @@
+<!--freeIDL.wxml-->
+<!--<text>freeIDL.wxml</text>-->
+<view class="backView">
+<button bindlongtap="navigateTo" class="idlButton" type="warn">立即免费办理</button>
+<image class="idlImage" mode="widthFix" src="../../images/H5驾照全球通投放页优化-市场版_03.jpg" />
+<image class="idlImage" mode="widthFix" src="../../images/H5驾照全球通投放页优化-市场版_04.jpg" />
+<image class="idlImage" mode="widthFix" src="../../images/H5驾照全球通投放页优化-市场版_05.jpg" />
+<image class="idlImage" mode="widthFix" src="../../images/H5驾照全球通投放页优化-市场版_06.jpg" />
+<image class="idlImage" mode="widthFix" src="../../images/H5驾照全球通投放页优化-市场版_07.jpg" />
+<image class="idlImage" mode="widthFix" src="../../images/H5驾照全球通投放页优化-市场版_08.jpg" />
+<image class="idlImage" mode="widthFix" src="../../images/H5驾照全球通投放页优化-市场版_09.jpg" />
+<image class="idlImage" mode="widthFix" src="../../images/H5驾照全球通投放页优化-市场版_10.jpg" />
+<image class="idlImage" mode="widthFix" src="../../images/H5驾照全球通投放页优化-市场版_11.jpg" />
+<image class="idlImage" mode="widthFix" src="../../images/H5驾照全球通投放页优化-市场版_12.jpg" />
+<image class="idlImage" mode="widthFix" src="../../images/H5驾照全球通投放页优化-市场版_13.jpg" />
+<!--<view class="idlView">
+<button bindlongtap="navigateTo" class="idlButton" type="warn">立即免费办理</button>
+</view>-->
+</view>
+
